@@ -1,6 +1,8 @@
 # Excel-Sales-Dashboard
 
-From a big data store we analysed and created an interactive Dashboard.  
+From a big data store we analysed and created an interactive Dashboard. 
+
+[**Download Data**](https://github.com/Pacifique26/Excel-Sales-Dashboard/blob/main/Pacifique_E_Commerce_Dashboard_Project.xlsx)
 
 Analyzing Sales: Product Category by Monthly Periode
 The data is diveded by Product Categories
